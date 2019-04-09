@@ -23,7 +23,7 @@
 
 # 数据库
 
-- [ ] [超码，候选吗，主码](DataBase/Concept.md#码)
+- [ ] [超码，候选码，主码](DataBase/Concept.md#码)
 - [ ] [关系代数运算，各种连接](DataBase/Concept.md#关系代数)
 - [ ] [主键、外键](DataBase/Design.md#主键外键)
 - [ ] [原子域和第一范式](DataBase/Design.md#原子域和第一范式)
